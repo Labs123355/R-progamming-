@@ -1,3 +1,3 @@
 ## README 
 
-Respository for Code Club episodes related to Getting Started with R
+Repository for R Programming episodes related to Getting Started with R
